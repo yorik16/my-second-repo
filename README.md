@@ -17,5 +17,4 @@ a block
 of code
 
 ```
-Here is how you make [a link](https://www.wikiped\
-ia.org/).
+Here is how you make [a link](https://www.wikipedia.org/)
